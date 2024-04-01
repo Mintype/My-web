@@ -96,6 +96,12 @@ body {
     font-size: clamp(15px, 6.5vw, 30px);
 }
 
+.headings h4 {
+    margin-top: 20px;
+    color: white; 
+    font-size: clamp(15px, 6.5vw, 30px);
+}
+
 .socials {
     margin-top: 25px; 
     width: 100%;
