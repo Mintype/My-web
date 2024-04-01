@@ -91,6 +91,10 @@ body {
     color: white; 
     font-size: clamp(25px, 6.5vw, 95px);
 }
+.headings h3 {
+    color: white; 
+    font-size: clamp(25px, 6.5vw, 95px);
+}
 
 .socials {
     margin-top: 25px; 
