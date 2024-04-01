@@ -85,6 +85,19 @@ body {
     margin-left: auto;
 }
 
+.headings h0{
+    margin-top: 100px;
+    max-width: 60vw;
+    background-image: linear-gradient(45deg, var(--background-secondary), var(--background-primary));
+    height: 100%;
+    padding: 0px 50px; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+}
+
 .headings h2 {
     color: white; 
     font-weight: 400;
