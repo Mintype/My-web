@@ -21,8 +21,7 @@ body {
 }
 
 .tab {
-    display: inline-block;
-    margin-left: 4em;
+        tab-size: 4;
 }
 
 .navbar {
