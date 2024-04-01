@@ -20,6 +20,11 @@ body {
     height: 2000px;
 }
 
+.tab {
+    display: inline-block;
+    margin-left: 4em;
+}
+
 .navbar {
     position: fixed;
     top: 25px; 
