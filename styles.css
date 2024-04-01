@@ -93,7 +93,7 @@ body {
 }
 .headings h3 {
     color: white; 
-    font-size: clamp(25px, 6.5vw, 95px);
+    font-size: clamp(15px, 6.5vw, 30px);
 }
 
 .socials {
