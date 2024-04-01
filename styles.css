@@ -99,7 +99,7 @@ body {
 .headings h4 {
     margin-top: 20px;
     color: white; 
-    font-size: clamp(15px, 6.5vw, 30px);
+    font-size: clamp(15px, 6.5vw, 15pxpx);
 }
 
 .socials {
