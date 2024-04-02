@@ -85,11 +85,14 @@ body {
     align-items: center;
     margin-left: auto;
 }
-
 .headings h2 {
     color: white; 
     font-weight: 400;
     margin-top: 15px;
+}
+.headings bio {
+    color: white; 
+    font-size:36px
 }
 
 .headings h1 {
